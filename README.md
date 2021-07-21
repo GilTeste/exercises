@@ -1,0 +1,2 @@
+# Exercícios de lógica
+Este repositório contém os exercícios de lógica realizados durante o meu ciclo de mentorias da PodCodar, fique à vontade para explorar as minhas soluções, tirar dúvidas e propor outras soluções.
